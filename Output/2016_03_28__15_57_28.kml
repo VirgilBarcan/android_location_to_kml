@@ -1,0 +1,3150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <open>1</open>
+        <Placemark id="feat_2">
+            <name>0</name>
+            <description>Coords: 47.138587 27.579031
+acc: 24
+et: +4d22h37m33s438ms
+alt: 114.0
+vel: 0.75
+bear326.9</description>
+            <Point id="geom_0">
+                <coordinates>27.579031,47.138587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>1</name>
+            <description>Coords: 47.138872 27.578940
+acc: 27
+et: +4d22h37m34s435ms
+alt: 116.0
+vel: 0.5
+bear326.9</description>
+            <Point id="geom_1">
+                <coordinates>27.578940,47.138872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>2</name>
+            <description>Coords: 47.138934 27.578482
+acc: 13
+et: +4d22h37m54s438ms
+alt: 91.0
+vel: 2.0
+bear210.8</description>
+            <Point id="geom_2">
+                <coordinates>27.578482,47.138934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>3</name>
+            <description>Coords: 47.138923 27.578433
+acc: 19
+et: +4d22h37m55s475ms
+alt: 91.0
+vel: 2.0
+bear235.4</description>
+            <Point id="geom_3">
+                <coordinates>27.578433,47.138923,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>4</name>
+            <description>Coords: 47.138856 27.578327
+acc: 16
+et: +4d22h37m56s447ms
+alt: 91.0
+vel: 2.25
+bear210.3</description>
+            <Point id="geom_4">
+                <coordinates>27.578327,47.138856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>5</name>
+            <description>Coords: 47.138956 27.578058
+acc: 28
+et: +4d22h37m57s484ms
+alt: 91.0
+vel: 2.5
+bear203.2</description>
+            <Point id="geom_5">
+                <coordinates>27.578058,47.138956,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>6</name>
+            <description>Coords: 47.138983 27.578103
+acc: 14
+et: +4d22h37m58s452ms
+alt: 92.0
+vel: 1.5
+bear275.4</description>
+            <Point id="geom_6">
+                <coordinates>27.578103,47.138983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>7</name>
+            <description>Coords: 47.138974 27.578206
+acc: 14
+et: +4d22h37m59s497ms
+alt: 91.0
+vel: 2.0
+bear206.5</description>
+            <Point id="geom_7">
+                <coordinates>27.578206,47.138974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>8</name>
+            <description>Coords: 47.138907 27.577945
+acc: 17
+et: +4d22h38m0s552ms
+alt: 91.0
+vel: 0.25
+bear206.5</description>
+            <Point id="geom_8">
+                <coordinates>27.577945,47.138907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>9</name>
+            <description>Coords: 47.139057 27.578121
+acc: 17
+et: +4d22h38m1s445ms
+alt: 91.0
+vel: 1.25
+bear209.2</description>
+            <Point id="geom_9">
+                <coordinates>27.578121,47.139057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>10</name>
+            <description>Coords: 47.138890 27.578193
+acc: 20
+et: +4d22h38m2s513ms
+alt: 91.0
+vel: 2.0
+bear261.6</description>
+            <Point id="geom_10">
+                <coordinates>27.578193,47.138890,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>11</name>
+            <description>Coords: 47.138880 27.578371
+acc: 19
+et: +4d22h38m3s495ms
+alt: 91.0
+vel: 2.0
+bear195.6</description>
+            <Point id="geom_11">
+                <coordinates>27.578371,47.138880,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>12</name>
+            <description>Coords: 47.138729 27.578175
+acc: 9
+et: +4d22h38m4s450ms
+alt: 91.0
+vel: 1.0
+bear234.2</description>
+            <Point id="geom_12">
+                <coordinates>27.578175,47.138729,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>13</name>
+            <description>Coords: 47.138796 27.578121
+acc: 13
+et: +4d22h38m5s499ms
+alt: 97.0
+vel: 2.0
+bear221.0</description>
+            <Point id="geom_13">
+                <coordinates>27.578121,47.138796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>14</name>
+            <description>Coords: 47.138744 27.578153
+acc: 15
+et: +4d22h38m6s434ms
+alt: 97.0
+vel: 1.75
+bear230.3</description>
+            <Point id="geom_14">
+                <coordinates>27.578153,47.138744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>15</name>
+            <description>Coords: 47.138821 27.578184
+acc: 14
+et: +4d22h38m7s456ms
+alt: 97.0
+vel: 1.5
+bear257.1</description>
+            <Point id="geom_15">
+                <coordinates>27.578184,47.138821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>16</name>
+            <description>Coords: 47.138710 27.578158
+acc: 20
+et: +4d22h38m8s450ms
+alt: 97.0
+vel: 2.0
+bear219.3</description>
+            <Point id="geom_16">
+                <coordinates>27.578158,47.138710,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>17</name>
+            <description>Coords: 47.138647 27.577903
+acc: 16
+et: +4d22h38m10s618ms
+alt: 98.0
+vel: 2.25
+bear200.0</description>
+            <Point id="geom_17">
+                <coordinates>27.577903,47.138647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>18</name>
+            <description>Coords: 47.138714 27.577730
+acc: 20
+et: +4d22h38m11s647ms
+alt: 96.0
+vel: 2.25
+bear242.3</description>
+            <Point id="geom_18">
+                <coordinates>27.577730,47.138714,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>19</name>
+            <description>Coords: 47.138604 27.577917
+acc: 15
+et: +4d22h38m12s674ms
+alt: 95.0
+vel: 1.0
+bear209.8</description>
+            <Point id="geom_19">
+                <coordinates>27.577917,47.138604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>20</name>
+            <description>Coords: 47.138628 27.577971
+acc: 13
+et: +4d22h38m13s615ms
+alt: 89.0
+vel: 2.25
+bear186.6</description>
+            <Point id="geom_20">
+                <coordinates>27.577971,47.138628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>21</name>
+            <description>Coords: 47.138633 27.577965
+acc: 14
+et: +4d22h38m14s673ms
+alt: 90.0
+vel: 1.25
+bear221.0</description>
+            <Point id="geom_21">
+                <coordinates>27.577965,47.138633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>22</name>
+            <description>Coords: 47.138841 27.577850
+acc: 13
+et: +4d22h38m15s719ms
+alt: 90.0
+vel: 1.5
+bear257.9</description>
+            <Point id="geom_22">
+                <coordinates>27.577850,47.138841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>23</name>
+            <description>Coords: 47.138736 27.577862
+acc: 19
+et: +4d22h38m16s689ms
+alt: 92.0
+vel: 1.25
+bear227.1</description>
+            <Point id="geom_23">
+                <coordinates>27.577862,47.138736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>24</name>
+            <description>Coords: 47.138809 27.577900
+acc: 13
+et: +4d22h38m17s440ms
+alt: 92.0
+vel: 1.25
+bear232.1</description>
+            <Point id="geom_24">
+                <coordinates>27.577900,47.138809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>25</name>
+            <description>Coords: 47.138902 27.577998
+acc: 16
+et: +4d22h38m18s678ms
+alt: 92.0
+vel: 1.0
+bear210.2</description>
+            <Point id="geom_25">
+                <coordinates>27.577998,47.138902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>26</name>
+            <description>Coords: 47.138821 27.577967
+acc: 17
+et: +4d22h38m19s596ms
+alt: 92.0
+vel: 2.0
+bear233.6</description>
+            <Point id="geom_26">
+                <coordinates>27.577967,47.138821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>27</name>
+            <description>Coords: 47.138723 27.577962
+acc: 16
+et: +4d22h38m20s632ms
+alt: 91.0
+vel: 1.75
+bear176.7</description>
+            <Point id="geom_27">
+                <coordinates>27.577962,47.138723,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>28</name>
+            <description>Coords: 47.138743 27.577911
+acc: 15
+et: +4d22h38m21s643ms
+alt: 67.0
+vel: 1.5
+bear234.6</description>
+            <Point id="geom_28">
+                <coordinates>27.577911,47.138743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>29</name>
+            <description>Coords: 47.138628 27.577955
+acc: 12
+et: +4d22h38m22s621ms
+alt: 86.0
+vel: 0.75
+bear210.2</description>
+            <Point id="geom_29">
+                <coordinates>27.577955,47.138628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>30</name>
+            <description>Coords: 47.138598 27.577764
+acc: 15
+et: +4d22h38m23s649ms
+alt: 89.0
+vel: 1.25
+bear258.5</description>
+            <Point id="geom_30">
+                <coordinates>27.577764,47.138598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>31</name>
+            <description>Coords: 47.138644 27.577740
+acc: 19
+et: +4d22h38m24s441ms
+alt: 90.0
+vel: 1.25
+bear210.8</description>
+            <Point id="geom_31">
+                <coordinates>27.577740,47.138644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>32</name>
+            <description>Coords: 47.138560 27.577613
+acc: 13
+et: +4d22h38m25s443ms
+alt: 90.0
+vel: 1.0
+bear238.2</description>
+            <Point id="geom_32">
+                <coordinates>27.577613,47.138560,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>33</name>
+            <description>Coords: 47.138646 27.577700
+acc: 17
+et: +4d22h38m26s443ms
+alt: 100.0
+vel: 1.25
+bear256.1</description>
+            <Point id="geom_33">
+                <coordinates>27.577700,47.138646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>34</name>
+            <description>Coords: 47.138690 27.577770
+acc: 18
+et: +4d22h38m27s441ms
+alt: 100.0
+vel: 0.5
+bear256.1</description>
+            <Point id="geom_34">
+                <coordinates>27.577770,47.138690,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>35</name>
+            <description>Coords: 47.138674 27.577746
+acc: 18
+et: +4d22h38m28s440ms
+alt: 100.0
+vel: 1.25
+bear231.2</description>
+            <Point id="geom_35">
+                <coordinates>27.577746,47.138674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>36</name>
+            <description>Coords: 47.138661 27.577753
+acc: 18
+et: +4d22h38m29s473ms
+alt: 101.0
+vel: 2.25
+bear252.3</description>
+            <Point id="geom_36">
+                <coordinates>27.577753,47.138661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>37</name>
+            <description>Coords: 47.138564 27.577713
+acc: 19
+et: +4d22h38m30s439ms
+alt: 104.0
+vel: 2.0
+bear221.6</description>
+            <Point id="geom_37">
+                <coordinates>27.577713,47.138564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>38</name>
+            <description>Coords: 47.138444 27.577940
+acc: 18
+et: +4d22h38m31s802ms
+alt: 100.0
+vel: 2.25
+bear203.9</description>
+            <Point id="geom_38">
+                <coordinates>27.577940,47.138444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>39</name>
+            <description>Coords: 47.138442 27.577816
+acc: 22
+et: +4d22h38m32s969ms
+alt: 77.0
+vel: 1.75
+bear216.4</description>
+            <Point id="geom_39">
+                <coordinates>27.577816,47.138442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>40</name>
+            <description>Coords: 47.138566 27.577634
+acc: 18
+et: +4d22h38m33s970ms
+alt: 78.0
+vel: 1.75
+bear231.2</description>
+            <Point id="geom_40">
+                <coordinates>27.577634,47.138566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>41</name>
+            <description>Coords: 47.138468 27.577771
+acc: 23
+et: +4d22h38m35s924ms
+alt: 91.0
+vel: 1.75
+bear217.9</description>
+            <Point id="geom_41">
+                <coordinates>27.577771,47.138468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>42</name>
+            <description>Coords: 47.138342 27.577838
+acc: 19
+et: +4d22h38m37s0ms
+alt: 91.0
+vel: 1.5
+bear246.2</description>
+            <Point id="geom_42">
+                <coordinates>27.577838,47.138342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>43</name>
+            <description>Coords: 47.138418 27.577587
+acc: 20
+et: +4d22h38m37s991ms
+alt: 88.0
+vel: 1.75
+bear246.3</description>
+            <Point id="geom_43">
+                <coordinates>27.577587,47.138418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>44</name>
+            <description>Coords: 47.138449 27.577600
+acc: 20
+et: +4d22h38m38s997ms
+alt: 88.0
+vel: 1.25
+bear236.2</description>
+            <Point id="geom_44">
+                <coordinates>27.577600,47.138449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>45</name>
+            <description>Coords: 47.138428 27.577502
+acc: 16
+et: +4d22h38m39s954ms
+alt: 101.0
+vel: 1.75
+bear236.4</description>
+            <Point id="geom_45">
+                <coordinates>27.577502,47.138428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>46</name>
+            <description>Coords: 47.138428 27.577583
+acc: 21
+et: +4d22h38m40s756ms
+alt: 99.0
+vel: 1.5
+bear211.0</description>
+            <Point id="geom_46">
+                <coordinates>27.577583,47.138428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>47</name>
+            <description>Coords: 47.138480 27.577530
+acc: 15
+et: +4d22h38m41s745ms
+alt: 100.0
+vel: 1.5
+bear215.5</description>
+            <Point id="geom_47">
+                <coordinates>27.577530,47.138480,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>48</name>
+            <description>Coords: 47.138480 27.577484
+acc: 13
+et: +4d22h38m42s808ms
+alt: 88.0
+vel: 1.75
+bear207.7</description>
+            <Point id="geom_48">
+                <coordinates>27.577484,47.138480,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>49</name>
+            <description>Coords: 47.138440 27.577719
+acc: 19
+et: +4d22h38m44s0ms
+alt: 108.0
+vel: 1.25
+bear232.7</description>
+            <Point id="geom_49">
+                <coordinates>27.577719,47.138440,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>50</name>
+            <description>Coords: 47.138346 27.577625
+acc: 23
+et: +4d22h38m44s793ms
+alt: 107.0
+vel: 2.75
+bear248.8</description>
+            <Point id="geom_50">
+                <coordinates>27.577625,47.138346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>51</name>
+            <description>Coords: 47.138366 27.577332
+acc: 26
+et: +4d22h38m45s271ms
+alt: 107.0
+vel: 2.0
+bear236.1</description>
+            <Point id="geom_51">
+                <coordinates>27.577332,47.138366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>52</name>
+            <description>Coords: 47.138325 27.577366
+acc: 15
+et: +4d22h38m46s344ms
+alt: 107.0
+vel: 1.25
+bear222.5</description>
+            <Point id="geom_52">
+                <coordinates>27.577366,47.138325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>53</name>
+            <description>Coords: 47.138264 27.577397
+acc: 13
+et: +4d22h38m47s287ms
+alt: 106.0
+vel: 1.25
+bear216.1</description>
+            <Point id="geom_53">
+                <coordinates>27.577397,47.138264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>54</name>
+            <description>Coords: 47.138245 27.577394
+acc: 13
+et: +4d22h38m48s271ms
+alt: 106.0
+vel: 2.0
+bear185.4</description>
+            <Point id="geom_54">
+                <coordinates>27.577394,47.138245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>55</name>
+            <description>Coords: 47.138227 27.577394
+acc: 12
+et: +4d22h38m49s269ms
+alt: 105.0
+vel: 1.5
+bear203.1</description>
+            <Point id="geom_55">
+                <coordinates>27.577394,47.138227,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>56</name>
+            <description>Coords: 47.138227 27.577382
+acc: 12
+et: +4d22h38m50s309ms
+alt: 104.0
+vel: 1.75
+bear212.2</description>
+            <Point id="geom_56">
+                <coordinates>27.577382,47.138227,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>57</name>
+            <description>Coords: 47.138222 27.577382
+acc: 11
+et: +4d22h38m51s266ms
+alt: 103.0
+vel: 2.25
+bear200.0</description>
+            <Point id="geom_57">
+                <coordinates>27.577382,47.138222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>58</name>
+            <description>Coords: 47.138190 27.577383
+acc: 11
+et: +4d22h38m52s302ms
+alt: 100.0
+vel: 2.25
+bear178.7</description>
+            <Point id="geom_58">
+                <coordinates>27.577383,47.138190,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>59</name>
+            <description>Coords: 47.138193 27.577364
+acc: 11
+et: +4d22h38m53s262ms
+alt: 99.0
+vel: 1.25
+bear193.1</description>
+            <Point id="geom_59">
+                <coordinates>27.577364,47.138193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>60</name>
+            <description>Coords: 47.138167 27.577375
+acc: 10
+et: +4d22h38m54s256ms
+alt: 98.0
+vel: 1.75
+bear213.9</description>
+            <Point id="geom_60">
+                <coordinates>27.577375,47.138167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>61</name>
+            <description>Coords: 47.138135 27.577394
+acc: 10
+et: +4d22h38m55s275ms
+alt: 96.0
+vel: 1.5
+bear232.6</description>
+            <Point id="geom_61">
+                <coordinates>27.577394,47.138135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>62</name>
+            <description>Coords: 47.138127 27.577396
+acc: 9
+et: +4d22h38m56s267ms
+alt: 95.0
+vel: 1.5
+bear215.6</description>
+            <Point id="geom_62">
+                <coordinates>27.577396,47.138127,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>63</name>
+            <description>Coords: 47.138124 27.577383
+acc: 8
+et: +4d22h38m57s428ms
+alt: 94.0
+vel: 1.5
+bear224.6</description>
+            <Point id="geom_63">
+                <coordinates>27.577383,47.138124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>64</name>
+            <description>Coords: 47.138117 27.577370
+acc: 7
+et: +4d22h38m58s509ms
+alt: 94.0
+vel: 1.5
+bear221.7</description>
+            <Point id="geom_64">
+                <coordinates>27.577370,47.138117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>65</name>
+            <description>Coords: 47.138109 27.577354
+acc: 7
+et: +4d22h38m59s315ms
+alt: 93.0
+vel: 1.5
+bear222.6</description>
+            <Point id="geom_65">
+                <coordinates>27.577354,47.138109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>66</name>
+            <description>Coords: 47.138096 27.577346
+acc: 7
+et: +4d22h39m0s289ms
+alt: 94.0
+vel: 1.5
+bear217.7</description>
+            <Point id="geom_66">
+                <coordinates>27.577346,47.138096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>67</name>
+            <description>Coords: 47.138090 27.577335
+acc: 8
+et: +4d22h39m1s417ms
+alt: 94.0
+vel: 1.5
+bear220.3</description>
+            <Point id="geom_67">
+                <coordinates>27.577335,47.138090,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>68</name>
+            <description>Coords: 47.138085 27.577327
+acc: 9
+et: +4d22h39m2s479ms
+alt: 92.0
+vel: 1.5
+bear222.4</description>
+            <Point id="geom_68">
+                <coordinates>27.577327,47.138085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>69</name>
+            <description>Coords: 47.138073 27.577311
+acc: 8
+et: +4d22h39m3s454ms
+alt: 92.0
+vel: 1.5
+bear223.8</description>
+            <Point id="geom_69">
+                <coordinates>27.577311,47.138073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>70</name>
+            <description>Coords: 47.138061 27.577297
+acc: 6
+et: +4d22h39m4s465ms
+alt: 90.0
+vel: 1.5
+bear218.7</description>
+            <Point id="geom_70">
+                <coordinates>27.577297,47.138061,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>71</name>
+            <description>Coords: 47.138050 27.577287
+acc: 6
+et: +4d22h39m5s504ms
+alt: 91.0
+vel: 1.5
+bear215.1</description>
+            <Point id="geom_71">
+                <coordinates>27.577287,47.138050,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>72</name>
+            <description>Coords: 47.138045 27.577276
+acc: 6
+et: +4d22h39m6s672ms
+alt: 92.0
+vel: 1.5
+bear224.1</description>
+            <Point id="geom_72">
+                <coordinates>27.577276,47.138045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>73</name>
+            <description>Coords: 47.138037 27.577264
+acc: 5
+et: +4d22h39m7s246ms
+alt: 90.0
+vel: 1.5
+bear223.8</description>
+            <Point id="geom_73">
+                <coordinates>27.577264,47.138037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>74</name>
+            <description>Coords: 47.138030 27.577249
+acc: 5
+et: +4d22h39m8s252ms
+alt: 91.0
+vel: 1.5
+bear227.6</description>
+            <Point id="geom_74">
+                <coordinates>27.577249,47.138030,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>75</name>
+            <description>Coords: 47.138020 27.577236
+acc: 6
+et: +4d22h39m9s271ms
+alt: 90.0
+vel: 1.5
+bear223.3</description>
+            <Point id="geom_75">
+                <coordinates>27.577236,47.138020,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>76</name>
+            <description>Coords: 47.138008 27.577218
+acc: 5
+et: +4d22h39m10s253ms
+alt: 90.0
+vel: 2.0
+bear224.4</description>
+            <Point id="geom_76">
+                <coordinates>27.577218,47.138008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>77</name>
+            <description>Coords: 47.137996 27.577204
+acc: 5
+et: +4d22h39m11s250ms
+alt: 89.0
+vel: 2.0
+bear221.7</description>
+            <Point id="geom_77">
+                <coordinates>27.577204,47.137996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>78</name>
+            <description>Coords: 47.137987 27.577188
+acc: 5
+et: +4d22h39m12s520ms
+alt: 91.0
+vel: 1.75
+bear225.1</description>
+            <Point id="geom_78">
+                <coordinates>27.577188,47.137987,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>79</name>
+            <description>Coords: 47.137979 27.577167
+acc: 6
+et: +4d22h39m13s479ms
+alt: 93.0
+vel: 1.75
+bear231.6</description>
+            <Point id="geom_79">
+                <coordinates>27.577167,47.137979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>80</name>
+            <description>Coords: 47.137971 27.577147
+acc: 6
+et: +4d22h39m14s490ms
+alt: 91.0
+vel: 1.75
+bear232.8</description>
+            <Point id="geom_80">
+                <coordinates>27.577147,47.137971,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>81</name>
+            <description>Coords: 47.137960 27.577133
+acc: 7
+et: +4d22h39m15s522ms
+alt: 90.0
+vel: 1.5
+bear217.4</description>
+            <Point id="geom_81">
+                <coordinates>27.577133,47.137960,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>82</name>
+            <description>Coords: 47.137946 27.577127
+acc: 8
+et: +4d22h39m16s494ms
+alt: 91.0
+vel: 1.5
+bear200.4</description>
+            <Point id="geom_82">
+                <coordinates>27.577127,47.137946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>83</name>
+            <description>Coords: 47.137930 27.577115
+acc: 10
+et: +4d22h39m17s493ms
+alt: 90.0
+vel: 1.75
+bear201.3</description>
+            <Point id="geom_83">
+                <coordinates>27.577115,47.137930,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>84</name>
+            <description>Coords: 47.137923 27.577096
+acc: 11
+et: +4d22h39m18s491ms
+alt: 90.0
+vel: 1.5
+bear214.4</description>
+            <Point id="geom_84">
+                <coordinates>27.577096,47.137923,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>85</name>
+            <description>Coords: 47.137915 27.577085
+acc: 10
+et: +4d22h39m19s489ms
+alt: 89.0
+vel: 1.5
+bear219.4</description>
+            <Point id="geom_85">
+                <coordinates>27.577085,47.137915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>86</name>
+            <description>Coords: 47.137906 27.577076
+acc: 8
+et: +4d22h39m20s526ms
+alt: 87.0
+vel: 1.5
+bear225.7</description>
+            <Point id="geom_86">
+                <coordinates>27.577076,47.137906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>87</name>
+            <description>Coords: 47.137889 27.577068
+acc: 8
+et: +4d22h39m21s492ms
+alt: 87.0
+vel: 1.5
+bear214.3</description>
+            <Point id="geom_87">
+                <coordinates>27.577068,47.137889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>88</name>
+            <description>Coords: 47.137880 27.577058
+acc: 9
+et: +4d22h39m22s481ms
+alt: 87.0
+vel: 1.5
+bear221.7</description>
+            <Point id="geom_88">
+                <coordinates>27.577058,47.137880,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>89</name>
+            <description>Coords: 47.137868 27.577051
+acc: 10
+et: +4d22h39m23s254ms
+alt: 86.0
+vel: 1.5
+bear215.6</description>
+            <Point id="geom_89">
+                <coordinates>27.577051,47.137868,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>90</name>
+            <description>Coords: 47.137858 27.577044
+acc: 11
+et: +4d22h39m24s322ms
+alt: 85.0
+vel: 1.5
+bear217.3</description>
+            <Point id="geom_90">
+                <coordinates>27.577044,47.137858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>91</name>
+            <description>Coords: 47.137846 27.577035
+acc: 9
+et: +4d22h39m25s335ms
+alt: 87.0
+vel: 1.5
+bear215.8</description>
+            <Point id="geom_91">
+                <coordinates>27.577035,47.137846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>92</name>
+            <description>Coords: 47.137837 27.577016
+acc: 8
+et: +4d22h39m26s309ms
+alt: 88.0
+vel: 1.5
+bear229.6</description>
+            <Point id="geom_92">
+                <coordinates>27.577016,47.137837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>93</name>
+            <description>Coords: 47.137826 27.576999
+acc: 8
+et: +4d22h39m27s287ms
+alt: 88.0
+vel: 1.5
+bear230.4</description>
+            <Point id="geom_93">
+                <coordinates>27.576999,47.137826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>94</name>
+            <description>Coords: 47.137813 27.576981
+acc: 6
+et: +4d22h39m28s252ms
+alt: 86.0
+vel: 1.5
+bear231.9</description>
+            <Point id="geom_94">
+                <coordinates>27.576981,47.137813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>95</name>
+            <description>Coords: 47.137803 27.576965
+acc: 6
+et: +4d22h39m29s302ms
+alt: 85.0
+vel: 1.5
+bear227.2</description>
+            <Point id="geom_95">
+                <coordinates>27.576965,47.137803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>96</name>
+            <description>Coords: 47.137794 27.576951
+acc: 7
+et: +4d22h39m30s310ms
+alt: 85.0
+vel: 1.5
+bear228.4</description>
+            <Point id="geom_96">
+                <coordinates>27.576951,47.137794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>97</name>
+            <description>Coords: 47.137790 27.576934
+acc: 7
+et: +4d22h39m31s465ms
+alt: 84.0
+vel: 1.5
+bear232.8</description>
+            <Point id="geom_97">
+                <coordinates>27.576934,47.137790,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>98</name>
+            <description>Coords: 47.137784 27.576921
+acc: 6
+et: +4d22h39m32s509ms
+alt: 84.0
+vel: 1.5
+bear229.7</description>
+            <Point id="geom_98">
+                <coordinates>27.576921,47.137784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>99</name>
+            <description>Coords: 47.137774 27.576907
+acc: 5
+et: +4d22h39m33s435ms
+alt: 86.0
+vel: 1.5
+bear227.9</description>
+            <Point id="geom_99">
+                <coordinates>27.576907,47.137774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>100</name>
+            <description>Coords: 47.137763 27.576895
+acc: 5
+et: +4d22h39m34s254ms
+alt: 86.0
+vel: 1.5
+bear222.8</description>
+            <Point id="geom_100">
+                <coordinates>27.576895,47.137763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>101</name>
+            <description>Coords: 47.137751 27.576880
+acc: 5
+et: +4d22h39m35s331ms
+alt: 86.0
+vel: 1.5
+bear223.6</description>
+            <Point id="geom_101">
+                <coordinates>27.576880,47.137751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>102</name>
+            <description>Coords: 47.137738 27.576873
+acc: 6
+et: +4d22h39m36s569ms
+alt: 84.0
+vel: 1.5
+bear218.8</description>
+            <Point id="geom_102">
+                <coordinates>27.576873,47.137738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>103</name>
+            <description>Coords: 47.137725 27.576862
+acc: 5
+et: +4d22h39m37s499ms
+alt: 82.0
+vel: 1.5
+bear216.7</description>
+            <Point id="geom_103">
+                <coordinates>27.576862,47.137725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>104</name>
+            <description>Coords: 47.137711 27.576851
+acc: 5
+et: +4d22h39m38s507ms
+alt: 82.0
+vel: 1.5
+bear214.4</description>
+            <Point id="geom_104">
+                <coordinates>27.576851,47.137711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>105</name>
+            <description>Coords: 47.137700 27.576833
+acc: 5
+et: +4d22h39m39s292ms
+alt: 83.0
+vel: 1.5
+bear217.5</description>
+            <Point id="geom_105">
+                <coordinates>27.576833,47.137700,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>106</name>
+            <description>Coords: 47.137687 27.576816
+acc: 5
+et: +4d22h39m40s312ms
+alt: 84.0
+vel: 1.5
+bear217.9</description>
+            <Point id="geom_106">
+                <coordinates>27.576816,47.137687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>107</name>
+            <description>Coords: 47.137675 27.576796
+acc: 5
+et: +4d22h39m41s253ms
+alt: 83.0
+vel: 1.5
+bear219.9</description>
+            <Point id="geom_107">
+                <coordinates>27.576796,47.137675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>108</name>
+            <description>Coords: 47.137661 27.576777
+acc: 6
+et: +4d22h39m42s526ms
+alt: 83.0
+vel: 1.5
+bear221.7</description>
+            <Point id="geom_108">
+                <coordinates>27.576777,47.137661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>109</name>
+            <description>Coords: 47.137651 27.576762
+acc: 6
+et: +4d22h39m43s250ms
+alt: 83.0
+vel: 1.5
+bear222.4</description>
+            <Point id="geom_109">
+                <coordinates>27.576762,47.137651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>110</name>
+            <description>Coords: 47.137638 27.576749
+acc: 7
+et: +4d22h39m44s421ms
+alt: 82.0
+vel: 1.5
+bear219.2</description>
+            <Point id="geom_110">
+                <coordinates>27.576749,47.137638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>111</name>
+            <description>Coords: 47.137624 27.576740
+acc: 8
+et: +4d22h39m45s428ms
+alt: 80.0
+vel: 1.5
+bear213.7</description>
+            <Point id="geom_111">
+                <coordinates>27.576740,47.137624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>112</name>
+            <description>Coords: 47.137617 27.576727
+acc: 12
+et: +4d22h39m46s456ms
+alt: 80.0
+vel: 1.5
+bear217.3</description>
+            <Point id="geom_112">
+                <coordinates>27.576727,47.137617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>113</name>
+            <description>Coords: 47.137605 27.576717
+acc: 12
+et: +4d22h39m47s452ms
+alt: 78.0
+vel: 1.5
+bear215.5</description>
+            <Point id="geom_113">
+                <coordinates>27.576717,47.137605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>114</name>
+            <description>Coords: 47.137592 27.576712
+acc: 12
+et: +4d22h39m48s471ms
+alt: 79.0
+vel: 1.5
+bear213.6</description>
+            <Point id="geom_114">
+                <coordinates>27.576712,47.137592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>115</name>
+            <description>Coords: 47.137580 27.576706
+acc: 11
+et: +4d22h39m49s468ms
+alt: 78.0
+vel: 1.5
+bear208.3</description>
+            <Point id="geom_115">
+                <coordinates>27.576706,47.137580,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>116</name>
+            <description>Coords: 47.137564 27.576699
+acc: 11
+et: +4d22h39m50s494ms
+alt: 79.0
+vel: 1.75
+bear208.5</description>
+            <Point id="geom_116">
+                <coordinates>27.576699,47.137564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>117</name>
+            <description>Coords: 47.137548 27.576687
+acc: 11
+et: +4d22h39m51s496ms
+alt: 80.0
+vel: 1.75
+bear214.4</description>
+            <Point id="geom_117">
+                <coordinates>27.576687,47.137548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>118</name>
+            <description>Coords: 47.137537 27.576670
+acc: 10
+et: +4d22h39m52s492ms
+alt: 83.0
+vel: 1.75
+bear218.0</description>
+            <Point id="geom_118">
+                <coordinates>27.576670,47.137537,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>119</name>
+            <description>Coords: 47.137528 27.576648
+acc: 10
+et: +4d22h39m53s527ms
+alt: 82.0
+vel: 1.75
+bear223.5</description>
+            <Point id="geom_119">
+                <coordinates>27.576648,47.137528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>120</name>
+            <description>Coords: 47.137516 27.576631
+acc: 10
+et: +4d22h39m54s401ms
+alt: 82.0
+vel: 1.75
+bear224.1</description>
+            <Point id="geom_120">
+                <coordinates>27.576631,47.137516,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>121</name>
+            <description>Coords: 47.137502 27.576614
+acc: 11
+et: +4d22h39m55s457ms
+alt: 82.0
+vel: 1.75
+bear222.1</description>
+            <Point id="geom_121">
+                <coordinates>27.576614,47.137502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>122</name>
+            <description>Coords: 47.137493 27.576594
+acc: 11
+et: +4d22h39m56s440ms
+alt: 81.0
+vel: 1.75
+bear225.2</description>
+            <Point id="geom_122">
+                <coordinates>27.576594,47.137493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>123</name>
+            <description>Coords: 47.137482 27.576574
+acc: 11
+et: +4d22h39m57s453ms
+alt: 81.0
+vel: 1.75
+bear227.1</description>
+            <Point id="geom_123">
+                <coordinates>27.576574,47.137482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>124</name>
+            <description>Coords: 47.137474 27.576556
+acc: 10
+et: +4d22h39m58s453ms
+alt: 80.0
+vel: 1.75
+bear229.7</description>
+            <Point id="geom_124">
+                <coordinates>27.576556,47.137474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>125</name>
+            <description>Coords: 47.137466 27.576537
+acc: 10
+et: +4d22h39m59s430ms
+alt: 80.0
+vel: 1.75
+bear227.7</description>
+            <Point id="geom_125">
+                <coordinates>27.576537,47.137466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>126</name>
+            <description>Coords: 47.137456 27.576522
+acc: 10
+et: +4d22h40m0s469ms
+alt: 80.0
+vel: 1.75
+bear227.8</description>
+            <Point id="geom_126">
+                <coordinates>27.576522,47.137456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>127</name>
+            <description>Coords: 47.137443 27.576508
+acc: 10
+et: +4d22h40m1s498ms
+alt: 81.0
+vel: 1.75
+bear225.1</description>
+            <Point id="geom_127">
+                <coordinates>27.576508,47.137443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>128</name>
+            <description>Coords: 47.137429 27.576498
+acc: 10
+et: +4d22h40m2s492ms
+alt: 79.0
+vel: 1.75
+bear222.2</description>
+            <Point id="geom_128">
+                <coordinates>27.576498,47.137429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>129</name>
+            <description>Coords: 47.137415 27.576484
+acc: 10
+et: +4d22h40m3s497ms
+alt: 79.0
+vel: 1.75
+bear220.0</description>
+            <Point id="geom_129">
+                <coordinates>27.576484,47.137415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>130</name>
+            <description>Coords: 47.137401 27.576473
+acc: 10
+et: +4d22h40m4s493ms
+alt: 80.0
+vel: 1.75
+bear218.0</description>
+            <Point id="geom_130">
+                <coordinates>27.576473,47.137401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>131</name>
+            <description>Coords: 47.137380 27.576455
+acc: 10
+et: +4d22h40m6s561ms
+alt: 78.0
+vel: 1.75
+bear212.6</description>
+            <Point id="geom_131">
+                <coordinates>27.576455,47.137380,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>132</name>
+            <description>Coords: 47.137369 27.576446
+acc: 10
+et: +4d22h40m7s413ms
+alt: 77.0
+vel: 1.75
+bear213.0</description>
+            <Point id="geom_132">
+                <coordinates>27.576446,47.137369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>133</name>
+            <description>Coords: 47.137359 27.576436
+acc: 10
+et: +4d22h40m8s429ms
+alt: 77.0
+vel: 1.75
+bear214.6</description>
+            <Point id="geom_133">
+                <coordinates>27.576436,47.137359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>134</name>
+            <description>Coords: 47.137349 27.576423
+acc: 10
+et: +4d22h40m9s440ms
+alt: 78.0
+vel: 1.75
+bear217.8</description>
+            <Point id="geom_134">
+                <coordinates>27.576423,47.137349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>135</name>
+            <description>Coords: 47.137337 27.576409
+acc: 10
+et: +4d22h40m10s460ms
+alt: 78.0
+vel: 1.75
+bear218.7</description>
+            <Point id="geom_135">
+                <coordinates>27.576409,47.137337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>136</name>
+            <description>Coords: 47.137327 27.576394
+acc: 10
+et: +4d22h40m11s465ms
+alt: 77.0
+vel: 1.75
+bear219.5</description>
+            <Point id="geom_136">
+                <coordinates>27.576394,47.137327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>137</name>
+            <description>Coords: 47.137318 27.576380
+acc: 10
+et: +4d22h40m12s464ms
+alt: 76.0
+vel: 1.75
+bear217.9</description>
+            <Point id="geom_137">
+                <coordinates>27.576380,47.137318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>138</name>
+            <description>Coords: 47.137310 27.576366
+acc: 10
+et: +4d22h40m13s489ms
+alt: 76.0
+vel: 1.75
+bear219.5</description>
+            <Point id="geom_138">
+                <coordinates>27.576366,47.137310,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>139</name>
+            <description>Coords: 47.137304 27.576350
+acc: 11
+et: +4d22h40m14s416ms
+alt: 76.0
+vel: 1.5
+bear222.9</description>
+            <Point id="geom_139">
+                <coordinates>27.576350,47.137304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>140</name>
+            <description>Coords: 47.137297 27.576331
+acc: 11
+et: +4d22h40m15s459ms
+alt: 76.0
+vel: 1.5
+bear227.2</description>
+            <Point id="geom_140">
+                <coordinates>27.576331,47.137297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>141</name>
+            <description>Coords: 47.137291 27.576308
+acc: 11
+et: +4d22h40m16s507ms
+alt: 75.0
+vel: 1.75
+bear232.4</description>
+            <Point id="geom_141">
+                <coordinates>27.576308,47.137291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>142</name>
+            <description>Coords: 47.137282 27.576275
+acc: 12
+et: +4d22h40m17s411ms
+alt: 76.0
+vel: 1.75
+bear236.5</description>
+            <Point id="geom_142">
+                <coordinates>27.576275,47.137282,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>143</name>
+            <description>Coords: 47.137275 27.576259
+acc: 11
+et: +4d22h40m18s480ms
+alt: 74.0
+vel: 1.75
+bear236.3</description>
+            <Point id="geom_143">
+                <coordinates>27.576259,47.137275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>144</name>
+            <description>Coords: 47.137267 27.576247
+acc: 11
+et: +4d22h40m19s429ms
+alt: 74.0
+vel: 1.75
+bear233.6</description>
+            <Point id="geom_144">
+                <coordinates>27.576247,47.137267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>145</name>
+            <description>Coords: 47.137257 27.576235
+acc: 11
+et: +4d22h40m20s464ms
+alt: 75.0
+vel: 1.5
+bear224.6</description>
+            <Point id="geom_145">
+                <coordinates>27.576235,47.137257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>146</name>
+            <description>Coords: 47.137252 27.576228
+acc: 11
+et: +4d22h40m21s472ms
+alt: 73.0
+vel: 1.25
+bear224.5</description>
+            <Point id="geom_146">
+                <coordinates>27.576228,47.137252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>147</name>
+            <description>Coords: 47.137241 27.576213
+acc: 11
+et: +4d22h40m22s458ms
+alt: 77.0
+vel: 1.5
+bear225.3</description>
+            <Point id="geom_147">
+                <coordinates>27.576213,47.137241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>148</name>
+            <description>Coords: 47.137226 27.576195
+acc: 11
+et: +4d22h40m23s449ms
+alt: 77.0
+vel: 1.5
+bear226.1</description>
+            <Point id="geom_148">
+                <coordinates>27.576195,47.137226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>149</name>
+            <description>Coords: 47.137215 27.576177
+acc: 11
+et: +4d22h40m24s251ms
+alt: 78.0
+vel: 1.5
+bear223.4</description>
+            <Point id="geom_149">
+                <coordinates>27.576177,47.137215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>150</name>
+            <description>Coords: 47.137203 27.576160
+acc: 11
+et: +4d22h40m25s249ms
+alt: 78.0
+vel: 1.5
+bear223.1</description>
+            <Point id="geom_150">
+                <coordinates>27.576160,47.137203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>151</name>
+            <description>Coords: 47.137192 27.576143
+acc: 11
+et: +4d22h40m26s462ms
+alt: 78.0
+vel: 1.5
+bear221.0</description>
+            <Point id="geom_151">
+                <coordinates>27.576143,47.137192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>152</name>
+            <description>Coords: 47.137177 27.576127
+acc: 11
+et: +4d22h40m27s451ms
+alt: 79.0
+vel: 1.5
+bear221.0</description>
+            <Point id="geom_152">
+                <coordinates>27.576127,47.137177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>153</name>
+            <description>Coords: 47.137159 27.576108
+acc: 11
+et: +4d22h40m28s451ms
+alt: 81.0
+vel: 1.5
+bear218.2</description>
+            <Point id="geom_153">
+                <coordinates>27.576108,47.137159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>154</name>
+            <description>Coords: 47.137144 27.576097
+acc: 11
+et: +4d22h40m29s482ms
+alt: 79.0
+vel: 1.5
+bear214.7</description>
+            <Point id="geom_154">
+                <coordinates>27.576097,47.137144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>155</name>
+            <description>Coords: 47.137131 27.576088
+acc: 11
+et: +4d22h40m30s611ms
+alt: 78.0
+vel: 1.5
+bear211.9</description>
+            <Point id="geom_155">
+                <coordinates>27.576088,47.137131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>156</name>
+            <description>Coords: 47.137120 27.576076
+acc: 10
+et: +4d22h40m31s495ms
+alt: 79.0
+vel: 1.5
+bear215.4</description>
+            <Point id="geom_156">
+                <coordinates>27.576076,47.137120,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>157</name>
+            <description>Coords: 47.137108 27.576062
+acc: 10
+et: +4d22h40m32s495ms
+alt: 79.0
+vel: 1.5
+bear221.5</description>
+            <Point id="geom_157">
+                <coordinates>27.576062,47.137108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>158</name>
+            <description>Coords: 47.137097 27.576046
+acc: 10
+et: +4d22h40m33s497ms
+alt: 80.0
+vel: 1.5
+bear225.4</description>
+            <Point id="geom_158">
+                <coordinates>27.576046,47.137097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>159</name>
+            <description>Coords: 47.137087 27.576033
+acc: 11
+et: +4d22h40m34s498ms
+alt: 79.0
+vel: 1.5
+bear224.8</description>
+            <Point id="geom_159">
+                <coordinates>27.576033,47.137087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>160</name>
+            <description>Coords: 47.137077 27.576020
+acc: 11
+et: +4d22h40m35s496ms
+alt: 79.0
+vel: 1.5
+bear225.7</description>
+            <Point id="geom_160">
+                <coordinates>27.576020,47.137077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>161</name>
+            <description>Coords: 47.137067 27.576010
+acc: 10
+et: +4d22h40m36s500ms
+alt: 78.0
+vel: 1.5
+bear224.4</description>
+            <Point id="geom_161">
+                <coordinates>27.576010,47.137067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>162</name>
+            <description>Coords: 47.137054 27.576001
+acc: 10
+et: +4d22h40m37s493ms
+alt: 79.0
+vel: 1.5
+bear221.3</description>
+            <Point id="geom_162">
+                <coordinates>27.576001,47.137054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>163</name>
+            <description>Coords: 47.137044 27.575990
+acc: 10
+et: +4d22h40m38s495ms
+alt: 78.0
+vel: 1.5
+bear224.4</description>
+            <Point id="geom_163">
+                <coordinates>27.575990,47.137044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>164</name>
+            <description>Coords: 47.137034 27.575981
+acc: 10
+et: +4d22h40m39s631ms
+alt: 77.0
+vel: 1.5
+bear223.2</description>
+            <Point id="geom_164">
+                <coordinates>27.575981,47.137034,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>165</name>
+            <description>Coords: 47.137022 27.575972
+acc: 10
+et: +4d22h40m40s491ms
+alt: 77.0
+vel: 1.5
+bear222.2</description>
+            <Point id="geom_165">
+                <coordinates>27.575972,47.137022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>166</name>
+            <description>Coords: 47.137010 27.575962
+acc: 10
+et: +4d22h40m41s524ms
+alt: 76.0
+vel: 1.5
+bear214.4</description>
+            <Point id="geom_166">
+                <coordinates>27.575962,47.137010,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>167</name>
+            <description>Coords: 47.136998 27.575952
+acc: 11
+et: +4d22h40m42s387ms
+alt: 75.0
+vel: 1.5
+bear216.1</description>
+            <Point id="geom_167">
+                <coordinates>27.575952,47.136998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>168</name>
+            <description>Coords: 47.136985 27.575942
+acc: 11
+et: +4d22h40m43s418ms
+alt: 76.0
+vel: 1.5
+bear215.4</description>
+            <Point id="geom_168">
+                <coordinates>27.575942,47.136985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>169</name>
+            <description>Coords: 47.136973 27.575932
+acc: 11
+et: +4d22h40m44s450ms
+alt: 76.0
+vel: 1.5
+bear214.3</description>
+            <Point id="geom_169">
+                <coordinates>27.575932,47.136973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>170</name>
+            <description>Coords: 47.136961 27.575919
+acc: 11
+et: +4d22h40m45s441ms
+alt: 74.0
+vel: 1.5
+bear214.9</description>
+            <Point id="geom_170">
+                <coordinates>27.575919,47.136961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_173">
+            <name>171</name>
+            <description>Coords: 47.136951 27.575905
+acc: 12
+et: +4d22h40m46s470ms
+alt: 74.0
+vel: 1.5
+bear219.0</description>
+            <Point id="geom_171">
+                <coordinates>27.575905,47.136951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>172</name>
+            <description>Coords: 47.136943 27.575889
+acc: 12
+et: +4d22h40m47s487ms
+alt: 74.0
+vel: 1.5
+bear224.4</description>
+            <Point id="geom_172">
+                <coordinates>27.575889,47.136943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>173</name>
+            <description>Coords: 47.136928 27.575878
+acc: 11
+et: +4d22h40m48s490ms
+alt: 74.0
+vel: 1.5
+bear219.2</description>
+            <Point id="geom_173">
+                <coordinates>27.575878,47.136928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>174</name>
+            <description>Coords: 47.136917 27.575863
+acc: 11
+et: +4d22h40m49s497ms
+alt: 73.0
+vel: 1.5
+bear216.6</description>
+            <Point id="geom_174">
+                <coordinates>27.575863,47.136917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>175</name>
+            <description>Coords: 47.136903 27.575854
+acc: 11
+et: +4d22h40m50s477ms
+alt: 72.0
+vel: 1.5
+bear208.0</description>
+            <Point id="geom_175">
+                <coordinates>27.575854,47.136903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>176</name>
+            <description>Coords: 47.136888 27.575846
+acc: 11
+et: +4d22h40m51s508ms
+alt: 72.0
+vel: 1.5
+bear207.8</description>
+            <Point id="geom_176">
+                <coordinates>27.575846,47.136888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>177</name>
+            <description>Coords: 47.136873 27.575836
+acc: 11
+et: +4d22h40m52s489ms
+alt: 73.0
+vel: 1.75
+bear206.3</description>
+            <Point id="geom_177">
+                <coordinates>27.575836,47.136873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>178</name>
+            <description>Coords: 47.136865 27.575819
+acc: 11
+et: +4d22h40m53s490ms
+alt: 71.0
+vel: 1.75
+bear213.0</description>
+            <Point id="geom_178">
+                <coordinates>27.575819,47.136865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>179</name>
+            <description>Coords: 47.136858 27.575802
+acc: 11
+et: +4d22h40m54s468ms
+alt: 71.0
+vel: 1.5
+bear218.5</description>
+            <Point id="geom_179">
+                <coordinates>27.575802,47.136858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>180</name>
+            <description>Coords: 47.136854 27.575786
+acc: 11
+et: +4d22h40m55s481ms
+alt: 70.0
+vel: 1.5
+bear223.8</description>
+            <Point id="geom_180">
+                <coordinates>27.575786,47.136854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_183">
+            <name>181</name>
+            <description>Coords: 47.136849 27.575771
+acc: 11
+et: +4d22h40m56s492ms
+alt: 72.0
+vel: 1.5
+bear223.4</description>
+            <Point id="geom_181">
+                <coordinates>27.575771,47.136849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_184">
+            <name>182</name>
+            <description>Coords: 47.136846 27.575761
+acc: 12
+et: +4d22h40m57s519ms
+alt: 74.0
+vel: 1.0
+bear222.5</description>
+            <Point id="geom_182">
+                <coordinates>27.575761,47.136846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_185">
+            <name>183</name>
+            <description>Coords: 47.136846 27.575747
+acc: 12
+et: +4d22h40m58s486ms
+alt: 74.0
+vel: 1.0
+bear228.1</description>
+            <Point id="geom_183">
+                <coordinates>27.575747,47.136846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_186">
+            <name>184</name>
+            <description>Coords: 47.136835 27.575734
+acc: 11
+et: +4d22h40m59s497ms
+alt: 75.0
+vel: 1.25
+bear226.2</description>
+            <Point id="geom_184">
+                <coordinates>27.575734,47.136835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_187">
+            <name>185</name>
+            <description>Coords: 47.136823 27.575716
+acc: 10
+et: +4d22h41m0s493ms
+alt: 76.0
+vel: 1.5
+bear225.4</description>
+            <Point id="geom_185">
+                <coordinates>27.575716,47.136823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_188">
+            <name>186</name>
+            <description>Coords: 47.136813 27.575702
+acc: 11
+et: +4d22h41m1s496ms
+alt: 77.0
+vel: 1.5
+bear219.8</description>
+            <Point id="geom_186">
+                <coordinates>27.575702,47.136813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_189">
+            <name>187</name>
+            <description>Coords: 47.136803 27.575688
+acc: 11
+et: +4d22h41m2s496ms
+alt: 78.0
+vel: 1.5
+bear217.3</description>
+            <Point id="geom_187">
+                <coordinates>27.575688,47.136803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_190">
+            <name>188</name>
+            <description>Coords: 47.136791 27.575676
+acc: 12
+et: +4d22h41m3s496ms
+alt: 76.0
+vel: 1.5
+bear214.2</description>
+            <Point id="geom_188">
+                <coordinates>27.575676,47.136791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_191">
+            <name>189</name>
+            <description>Coords: 47.136777 27.575666
+acc: 11
+et: +4d22h41m4s471ms
+alt: 77.0
+vel: 1.5
+bear209.3</description>
+            <Point id="geom_189">
+                <coordinates>27.575666,47.136777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_192">
+            <name>190</name>
+            <description>Coords: 47.136762 27.575657
+acc: 11
+et: +4d22h41m5s413ms
+alt: 78.0
+vel: 1.5
+bear209.3</description>
+            <Point id="geom_190">
+                <coordinates>27.575657,47.136762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_193">
+            <name>191</name>
+            <description>Coords: 47.136749 27.575648
+acc: 12
+et: +4d22h41m6s440ms
+alt: 77.0
+vel: 1.5
+bear210.7</description>
+            <Point id="geom_191">
+                <coordinates>27.575648,47.136749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_194">
+            <name>192</name>
+            <description>Coords: 47.136738 27.575636
+acc: 12
+et: +4d22h41m7s410ms
+alt: 78.0
+vel: 1.5
+bear219.2</description>
+            <Point id="geom_192">
+                <coordinates>27.575636,47.136738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_195">
+            <name>193</name>
+            <description>Coords: 47.136728 27.575621
+acc: 12
+et: +4d22h41m8s479ms
+alt: 78.0
+vel: 1.5
+bear228.2</description>
+            <Point id="geom_193">
+                <coordinates>27.575621,47.136728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_196">
+            <name>194</name>
+            <description>Coords: 47.136722 27.575601
+acc: 12
+et: +4d22h41m9s412ms
+alt: 78.0
+vel: 1.5
+bear237.0</description>
+            <Point id="geom_194">
+                <coordinates>27.575601,47.136722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_197">
+            <name>195</name>
+            <description>Coords: 47.136716 27.575582
+acc: 12
+et: +4d22h41m10s452ms
+alt: 80.0
+vel: 1.5
+bear241.3</description>
+            <Point id="geom_195">
+                <coordinates>27.575582,47.136716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_198">
+            <name>196</name>
+            <description>Coords: 47.136704 27.575566
+acc: 12
+et: +4d22h41m11s473ms
+alt: 80.0
+vel: 1.5
+bear237.3</description>
+            <Point id="geom_196">
+                <coordinates>27.575566,47.136704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_199">
+            <name>197</name>
+            <description>Coords: 47.136691 27.575551
+acc: 13
+et: +4d22h41m12s411ms
+alt: 80.0
+vel: 1.5
+bear233.7</description>
+            <Point id="geom_197">
+                <coordinates>27.575551,47.136691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_200">
+            <name>198</name>
+            <description>Coords: 47.136678 27.575535
+acc: 13
+et: +4d22h41m13s487ms
+alt: 81.0
+vel: 1.5
+bear230.2</description>
+            <Point id="geom_198">
+                <coordinates>27.575535,47.136678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_201">
+            <name>199</name>
+            <description>Coords: 47.136667 27.575521
+acc: 14
+et: +4d22h41m14s426ms
+alt: 80.0
+vel: 1.5
+bear232.3</description>
+            <Point id="geom_199">
+                <coordinates>27.575521,47.136667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_202">
+            <name>200</name>
+            <description>Coords: 47.136660 27.575506
+acc: 14
+et: +4d22h41m15s252ms
+alt: 81.0
+vel: 1.5
+bear235.4</description>
+            <Point id="geom_200">
+                <coordinates>27.575506,47.136660,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_203">
+            <name>201</name>
+            <description>Coords: 47.136654 27.575488
+acc: 15
+et: +4d22h41m16s508ms
+alt: 83.0
+vel: 1.5
+bear233.7</description>
+            <Point id="geom_201">
+                <coordinates>27.575488,47.136654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_204">
+            <name>202</name>
+            <description>Coords: 47.136641 27.575471
+acc: 15
+et: +4d22h41m17s504ms
+alt: 82.0
+vel: 1.5
+bear228.1</description>
+            <Point id="geom_202">
+                <coordinates>27.575471,47.136641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>203</name>
+            <description>Coords: 47.136625 27.575452
+acc: 16
+et: +4d22h41m18s414ms
+alt: 84.0
+vel: 1.5
+bear223.1</description>
+            <Point id="geom_203">
+                <coordinates>27.575452,47.136625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>204</name>
+            <description>Coords: 47.136607 27.575427
+acc: 17
+et: +4d22h41m19s464ms
+alt: 85.0
+vel: 1.5
+bear222.3</description>
+            <Point id="geom_204">
+                <coordinates>27.575427,47.136607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>205</name>
+            <description>Coords: 47.136601 27.575424
+acc: 13
+et: +4d22h41m20s498ms
+alt: 88.0
+vel: 1.5
+bear220.4</description>
+            <Point id="geom_205">
+                <coordinates>27.575424,47.136601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>206</name>
+            <description>Coords: 47.136591 27.575420
+acc: 13
+et: +4d22h41m21s484ms
+alt: 87.0
+vel: 1.5
+bear215.5</description>
+            <Point id="geom_206">
+                <coordinates>27.575420,47.136591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>207</name>
+            <description>Coords: 47.136581 27.575418
+acc: 13
+et: +4d22h41m22s648ms
+alt: 87.0
+vel: 1.25
+bear204.1</description>
+            <Point id="geom_207">
+                <coordinates>27.575418,47.136581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>208</name>
+            <description>Coords: 47.136568 27.575410
+acc: 12
+et: +4d22h41m23s435ms
+alt: 86.0
+vel: 1.25
+bear211.2</description>
+            <Point id="geom_208">
+                <coordinates>27.575410,47.136568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>209</name>
+            <description>Coords: 47.136556 27.575399
+acc: 12
+et: +4d22h41m24s251ms
+alt: 85.0
+vel: 1.25
+bear213.5</description>
+            <Point id="geom_209">
+                <coordinates>27.575399,47.136556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>210</name>
+            <description>Coords: 47.136545 27.575390
+acc: 12
+et: +4d22h41m25s314ms
+alt: 85.0
+vel: 1.5
+bear214.8</description>
+            <Point id="geom_210">
+                <coordinates>27.575390,47.136545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>211</name>
+            <description>Coords: 47.136533 27.575379
+acc: 12
+et: +4d22h41m26s310ms
+alt: 85.0
+vel: 1.5
+bear214.7</description>
+            <Point id="geom_211">
+                <coordinates>27.575379,47.136533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>212</name>
+            <description>Coords: 47.136522 27.575366
+acc: 11
+et: +4d22h41m27s308ms
+alt: 85.0
+vel: 1.5
+bear217.1</description>
+            <Point id="geom_212">
+                <coordinates>27.575366,47.136522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>213</name>
+            <description>Coords: 47.136507 27.575347
+acc: 11
+et: +4d22h41m28s300ms
+alt: 85.0
+vel: 1.5
+bear220.0</description>
+            <Point id="geom_213">
+                <coordinates>27.575347,47.136507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>214</name>
+            <description>Coords: 47.136492 27.575328
+acc: 11
+et: +4d22h41m29s251ms
+alt: 84.0
+vel: 1.5
+bear219.9</description>
+            <Point id="geom_214">
+                <coordinates>27.575328,47.136492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>215</name>
+            <description>Coords: 47.136477 27.575313
+acc: 10
+et: +4d22h41m30s493ms
+alt: 85.0
+vel: 1.5
+bear218.2</description>
+            <Point id="geom_215">
+                <coordinates>27.575313,47.136477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>216</name>
+            <description>Coords: 47.136462 27.575299
+acc: 10
+et: +4d22h41m31s675ms
+alt: 86.0
+vel: 1.5
+bear217.1</description>
+            <Point id="geom_216">
+                <coordinates>27.575299,47.136462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>217</name>
+            <description>Coords: 47.136448 27.575285
+acc: 10
+et: +4d22h41m32s311ms
+alt: 86.0
+vel: 1.5
+bear218.2</description>
+            <Point id="geom_217">
+                <coordinates>27.575285,47.136448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>218</name>
+            <description>Coords: 47.136433 27.575269
+acc: 10
+et: +4d22h41m33s502ms
+alt: 87.0
+vel: 1.5
+bear220.6</description>
+            <Point id="geom_218">
+                <coordinates>27.575269,47.136433,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>219</name>
+            <description>Coords: 47.136420 27.575252
+acc: 10
+et: +4d22h41m34s452ms
+alt: 88.0
+vel: 1.5
+bear223.5</description>
+            <Point id="geom_219">
+                <coordinates>27.575252,47.136420,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>220</name>
+            <description>Coords: 47.136407 27.575234
+acc: 10
+et: +4d22h41m35s497ms
+alt: 89.0
+vel: 1.5
+bear224.7</description>
+            <Point id="geom_220">
+                <coordinates>27.575234,47.136407,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>221</name>
+            <description>Coords: 47.136395 27.575216
+acc: 10
+et: +4d22h41m36s490ms
+alt: 88.0
+vel: 1.5
+bear224.9</description>
+            <Point id="geom_221">
+                <coordinates>27.575216,47.136395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>222</name>
+            <description>Coords: 47.136385 27.575200
+acc: 10
+et: +4d22h41m37s494ms
+alt: 88.0
+vel: 1.5
+bear222.7</description>
+            <Point id="geom_222">
+                <coordinates>27.575200,47.136385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>223</name>
+            <description>Coords: 47.136374 27.575187
+acc: 10
+et: +4d22h41m38s486ms
+alt: 87.0
+vel: 1.5
+bear218.0</description>
+            <Point id="geom_223">
+                <coordinates>27.575187,47.136374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_226">
+            <name>224</name>
+            <description>Coords: 47.136361 27.575174
+acc: 10
+et: +4d22h41m39s495ms
+alt: 86.0
+vel: 1.5
+bear214.9</description>
+            <Point id="geom_224">
+                <coordinates>27.575174,47.136361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_227">
+            <name>225</name>
+            <description>Coords: 47.136350 27.575160
+acc: 10
+et: +4d22h41m40s607ms
+alt: 86.0
+vel: 1.5
+bear217.7</description>
+            <Point id="geom_225">
+                <coordinates>27.575160,47.136350,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>226</name>
+            <description>Coords: 47.136340 27.575142
+acc: 11
+et: +4d22h41m41s499ms
+alt: 86.0
+vel: 1.5
+bear222.8</description>
+            <Point id="geom_226">
+                <coordinates>27.575142,47.136340,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>227</name>
+            <description>Coords: 47.136331 27.575123
+acc: 11
+et: +4d22h41m42s384ms
+alt: 88.0
+vel: 1.5
+bear226.4</description>
+            <Point id="geom_227">
+                <coordinates>27.575123,47.136331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>228</name>
+            <description>Coords: 47.136322 27.575105
+acc: 10
+et: +4d22h41m43s484ms
+alt: 89.0
+vel: 1.5
+bear223.8</description>
+            <Point id="geom_228">
+                <coordinates>27.575105,47.136322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>229</name>
+            <description>Coords: 47.136313 27.575088
+acc: 10
+et: +4d22h41m44s451ms
+alt: 89.0
+vel: 1.5
+bear222.1</description>
+            <Point id="geom_229">
+                <coordinates>27.575088,47.136313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>230</name>
+            <description>Coords: 47.136303 27.575074
+acc: 10
+et: +4d22h41m45s458ms
+alt: 89.0
+vel: 1.5
+bear219.9</description>
+            <Point id="geom_230">
+                <coordinates>27.575074,47.136303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>231</name>
+            <description>Coords: 47.136292 27.575060
+acc: 10
+et: +4d22h41m46s447ms
+alt: 89.0
+vel: 1.5
+bear217.4</description>
+            <Point id="geom_231">
+                <coordinates>27.575060,47.136292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>232</name>
+            <description>Coords: 47.136281 27.575047
+acc: 10
+et: +4d22h41m47s453ms
+alt: 90.0
+vel: 1.5
+bear215.4</description>
+            <Point id="geom_232">
+                <coordinates>27.575047,47.136281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>233</name>
+            <description>Coords: 47.136269 27.575034
+acc: 10
+et: +4d22h41m48s413ms
+alt: 92.0
+vel: 1.5
+bear212.6</description>
+            <Point id="geom_233">
+                <coordinates>27.575034,47.136269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>234</name>
+            <description>Coords: 47.136258 27.575021
+acc: 10
+et: +4d22h41m49s458ms
+alt: 92.0
+vel: 1.5
+bear211.3</description>
+            <Point id="geom_234">
+                <coordinates>27.575021,47.136258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>235</name>
+            <description>Coords: 47.136247 27.575010
+acc: 10
+et: +4d22h41m50s466ms
+alt: 94.0
+vel: 1.5
+bear210.1</description>
+            <Point id="geom_235">
+                <coordinates>27.575010,47.136247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>236</name>
+            <description>Coords: 47.136233 27.575001
+acc: 10
+et: +4d22h41m51s470ms
+alt: 92.0
+vel: 1.5
+bear206.8</description>
+            <Point id="geom_236">
+                <coordinates>27.575001,47.136233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>237</name>
+            <description>Coords: 47.136218 27.574993
+acc: 10
+et: +4d22h41m52s473ms
+alt: 93.0
+vel: 1.5
+bear203.2</description>
+            <Point id="geom_237">
+                <coordinates>27.574993,47.136218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>238</name>
+            <description>Coords: 47.136189 27.574982
+acc: 10
+et: +4d22h41m54s482ms
+alt: 93.0
+vel: 1.5
+bear193.6</description>
+            <Point id="geom_238">
+                <coordinates>27.574982,47.136189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>239</name>
+            <description>Coords: 47.136173 27.574982
+acc: 10
+et: +4d22h41m55s438ms
+alt: 93.0
+vel: 1.5
+bear185.8</description>
+            <Point id="geom_239">
+                <coordinates>27.574982,47.136173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>240</name>
+            <description>Coords: 47.136157 27.574987
+acc: 10
+et: +4d22h41m56s627ms
+alt: 93.0
+vel: 1.5
+bear176.8</description>
+            <Point id="geom_240">
+                <coordinates>27.574987,47.136157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_243">
+            <name>241</name>
+            <description>Coords: 47.136142 27.574997
+acc: 10
+et: +4d22h41m57s583ms
+alt: 94.0
+vel: 1.5
+bear167.8</description>
+            <Point id="geom_241">
+                <coordinates>27.574997,47.136142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>242</name>
+            <description>Coords: 47.136128 27.575005
+acc: 10
+et: +4d22h41m58s852ms
+alt: 95.0
+vel: 1.5
+bear162.4</description>
+            <Point id="geom_242">
+                <coordinates>27.575005,47.136128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_245">
+            <name>243</name>
+            <description>Coords: 47.136115 27.575014
+acc: 10
+et: +4d22h41m59s847ms
+alt: 95.0
+vel: 1.5
+bear158.9</description>
+            <Point id="geom_243">
+                <coordinates>27.575014,47.136115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_246">
+            <name>244</name>
+            <description>Coords: 47.136102 27.575024
+acc: 10
+et: +4d22h42m0s836ms
+alt: 95.0
+vel: 1.5
+bear158.1</description>
+            <Point id="geom_244">
+                <coordinates>27.575024,47.136102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>245</name>
+            <description>Coords: 47.136092 27.575033
+acc: 10
+et: +4d22h42m1s800ms
+alt: 95.0
+vel: 1.5
+bear154.4</description>
+            <Point id="geom_245">
+                <coordinates>27.575033,47.136092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_248">
+            <name>246</name>
+            <description>Coords: 47.136084 27.575042
+acc: 10
+et: +4d22h42m2s854ms
+alt: 96.0
+vel: 1.0
+bear154.8</description>
+            <Point id="geom_246">
+                <coordinates>27.575042,47.136084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_249">
+            <name>247</name>
+            <description>Coords: 47.136079 27.575051
+acc: 10
+et: +4d22h42m3s814ms
+alt: 92.0
+vel: 0.75
+bear154.8</description>
+            <Point id="geom_247">
+                <coordinates>27.575051,47.136079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_250">
+            <name>248</name>
+            <description>Coords: 47.136076 27.575057
+acc: 11
+et: +4d22h42m4s852ms
+alt: 93.0
+vel: 0.5
+bear154.8</description>
+            <Point id="geom_248">
+                <coordinates>27.575057,47.136076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_251">
+            <name>249</name>
+            <description>Coords: 47.136073 27.575066
+acc: 11
+et: +4d22h42m5s726ms
+alt: 94.0
+vel: 0.5
+bear154.8</description>
+            <Point id="geom_249">
+                <coordinates>27.575066,47.136073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_252">
+            <name>250</name>
+            <description>Coords: 47.136069 27.575080
+acc: 11
+et: +4d22h42m6s726ms
+alt: 93.0
+vel: 0.75
+bear154.8</description>
+            <Point id="geom_250">
+                <coordinates>27.575080,47.136069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_253">
+            <name>251</name>
+            <description>Coords: 47.136063 27.575096
+acc: 11
+et: +4d22h42m7s797ms
+alt: 90.0
+vel: 0.75
+bear117.6</description>
+            <Point id="geom_251">
+                <coordinates>27.575096,47.136063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_254">
+            <name>252</name>
+            <description>Coords: 47.136053 27.575118
+acc: 11
+et: +4d22h42m8s738ms
+alt: 88.0
+vel: 1.5
+bear118.1</description>
+            <Point id="geom_252">
+                <coordinates>27.575118,47.136053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_255">
+            <name>253</name>
+            <description>Coords: 47.136048 27.575142
+acc: 11
+et: +4d22h42m9s736ms
+alt: 89.0
+vel: 1.5
+bear117.4</description>
+            <Point id="geom_253">
+                <coordinates>27.575142,47.136048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_256">
+            <name>254</name>
+            <description>Coords: 47.136043 27.575166
+acc: 11
+et: +4d22h42m10s570ms
+alt: 89.0
+vel: 1.5
+bear114.6</description>
+            <Point id="geom_254">
+                <coordinates>27.575166,47.136043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_257">
+            <name>255</name>
+            <description>Coords: 47.136039 27.575185
+acc: 11
+et: +4d22h42m11s586ms
+alt: 90.0
+vel: 1.25
+bear115.7</description>
+            <Point id="geom_255">
+                <coordinates>27.575185,47.136039,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_258">
+            <name>256</name>
+            <description>Coords: 47.136032 27.575200
+acc: 11
+et: +4d22h42m12s573ms
+alt: 90.0
+vel: 1.25
+bear120.0</description>
+            <Point id="geom_256">
+                <coordinates>27.575200,47.136032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_259">
+            <name>257</name>
+            <description>Coords: 47.136023 27.575216
+acc: 11
+et: +4d22h42m13s572ms
+alt: 89.0
+vel: 1.25
+bear125.4</description>
+            <Point id="geom_257">
+                <coordinates>27.575216,47.136023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_260">
+            <name>258</name>
+            <description>Coords: 47.136017 27.575233
+acc: 12
+et: +4d22h42m14s572ms
+alt: 90.0
+vel: 1.25
+bear124.2</description>
+            <Point id="geom_258">
+                <coordinates>27.575233,47.136017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_261">
+            <name>259</name>
+            <description>Coords: 47.136010 27.575250
+acc: 13
+et: +4d22h42m15s570ms
+alt: 90.0
+vel: 1.25
+bear122.8</description>
+            <Point id="geom_259">
+                <coordinates>27.575250,47.136010,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_262">
+            <name>260</name>
+            <description>Coords: 47.136003 27.575265
+acc: 14
+et: +4d22h42m16s570ms
+alt: 90.0
+vel: 1.25
+bear125.8</description>
+            <Point id="geom_260">
+                <coordinates>27.575265,47.136003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_263">
+            <name>261</name>
+            <description>Coords: 47.135995 27.575270
+acc: 14
+et: +4d22h42m17s582ms
+alt: 90.0
+vel: 1.25
+bear135.4</description>
+            <Point id="geom_261">
+                <coordinates>27.575270,47.135995,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
